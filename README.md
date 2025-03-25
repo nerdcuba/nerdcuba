@@ -35,6 +35,14 @@ Here are some of the tools and technologies I work with:
 
 ---
 
+### 🚀 Recent Projects
+
+- 💰 **Bundle Check for Solana** – Real-time memecoin analyzer  
+- 🔒 **USB Privacy Setup with Tails/Whonix** – A portable, anonymous environment  
+- 🎵 **Web3 Music Platform** – Tokenization for artists & creators  
+- 📈 **Twitter Tracker Bot for Trading** – Finds trending tokens in real time
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -49,5 +57,12 @@ Here are some of the tools and technologies I work with:
 
 - 💬 Telegram: [@nerdcuba](https://t.me/nerdcuba)
 - 🧠 Sharing ideas & learning something new every day!
+
+---
+
+### ⚡ Fun fact
+
+I use Linux with two screens like Iron Man 😎.
+If I'm not coding, I'm exploring blockchains, privacy, and coffee ☕️.
 
 > “Open-source everything, learn by doing.” – me 🙌
