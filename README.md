@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hey there, I'm nerdcuba 👋🇨🇺</h1>
 
 <p align="center">
