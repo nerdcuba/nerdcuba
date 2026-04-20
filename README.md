@@ -44,7 +44,7 @@ I build autonomous tools at the intersection of **data, automation, and markets*
 <tr>
 <td width="100%">
 
-### 🧠 Nuntio AI — [nuntio.es](https://nuntio.es)
+### 🧠 Nuntio AI 
 **AI-Powered CRM**
 
 Next-generation CRM platform with a full AI layer built in. Designed to automate, predict, and accelerate how businesses manage relationships and pipelines. Not another CRM — a CRM that thinks.
