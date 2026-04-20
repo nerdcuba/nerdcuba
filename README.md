@@ -38,6 +38,27 @@ I build autonomous tools at the intersection of **data, automation, and markets*
 
 ## `./projects --active`
 
+### 🌟 FLAGSHIP
+
+<table>
+<tr>
+<td width="100%">
+
+### 🧠 Nuntio AI — [nuntio.es](https://nuntio.es)
+**AI-Powered CRM**
+
+Next-generation CRM platform with a full AI layer built in. Designed to automate, predict, and accelerate how businesses manage relationships and pipelines. Not another CRM — a CRM that thinks.
+
+`React` `Node.js` `Claude API` `Cloudflare` `Ubuntu Server`
+
+</td>
+</tr>
+</table>
+
+---
+
+### `./projects --other`
+
 <table>
 <tr>
 <td width="50%">
@@ -64,16 +85,6 @@ Autonomous sports picks dashboard powered by AI. Covers NBA, MLB, and soccer wit
 <tr>
 <td width="50%">
 
-### 🚚 Nuntio AI
-**Logistics Intelligence Platform**
-
-Next-generation logistics management platform with AI-powered ops layer. Backend deployed at [nuntio.ai](https://nuntio.ai).
-
-`Node.js` `Cloudflare` `Ubuntu` `REST API`
-
-</td>
-<td width="50%">
-
 ### 🛡️ AAClean
 **GSF Cleaner for Android 14/15/16**
 
@@ -83,6 +94,8 @@ Shell utility to strip Google Services Framework state from Android — privacy-
 
 [![Stars](https://img.shields.io/github/stars/nerdcuba/AAClean?style=flat-square&color=FFD700)](https://github.com/nerdcuba/AAClean)
 
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
