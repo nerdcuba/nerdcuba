@@ -11,7 +11,7 @@
 
 **`Builder. Tinkerer. Entrepreneur.`**
 
-🇨🇺 Cuban · 🇪🇸 Madrid-based · 🌍 Building for a global market
+· 🌍 Building for a global market ·
 
 [![X](https://img.shields.io/badge/X-@nerdcuba-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/nerdcuba)
 [![Telegram](https://img.shields.io/badge/Telegram-@nerdcuba-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nerdcuba)
@@ -25,7 +25,6 @@
 
 ```yaml
 name:       nerdcuba
-location:   Madrid, Spain 🇪🇸
 companies:  QUAMTY GROUP LTD · BegonLabs · Nuntio Technologies Limited
 stack:      Linux · Python · JavaScript · Bash · APIs
 obsession:  Building systems that run while I sleep
