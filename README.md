@@ -25,7 +25,6 @@
 
 ```yaml
 name:       nerdcuba
-companies:  QUAMTY GROUP LTD · BegonLabs · Nuntio Technologies Limited
 stack:      Linux · Python · JavaScript · Bash · APIs
 obsession:  Building systems that run while I sleep
 status:     Shipping 🚢
